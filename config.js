@@ -1,0 +1,1 @@
+export const tgAPIToken = "1806970036:AAFq1pCrNFhEXKAqbXTP3antun7AAuIs5c0"

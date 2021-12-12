@@ -1,0 +1,20 @@
+{
+  "name": "tbot-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
